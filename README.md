@@ -1,5 +1,5 @@
-# Deep-Learning-for-3D-Topology-Optimization
-Contains codes associated with our paper "Gyroid-like metamaterials:  Topology optimization and Deep Learning"
+# DL3DTO - Deep-Learning-for-3D-Topology-Optimization
+Contains codes associated with our paper "DL3DTO - MATLAB/Python codes for 3D Topology optimization with Deep Learning"
 The codes contains following files:
 
 DL Data Generation Matlab codes
